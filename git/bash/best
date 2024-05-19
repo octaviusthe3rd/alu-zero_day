@@ -1,7 +1,11 @@
 echo "Best"
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "This school is so cool"
 
 =======
 echo "Best School"
 >>>>>>> update_script
+=======
+echo "Best School"
+>>>>>>> d364b12a4d74f4758b323604bb6694e5cb64d8f7
